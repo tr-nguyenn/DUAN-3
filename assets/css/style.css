@@ -763,3 +763,8 @@ a {
   line-height: 1.86;
   padding: 28px 0 42px;
 }
+
+/* animation */
+.work .section-heading{
+  animation-iteration-count: infinite;
+}
